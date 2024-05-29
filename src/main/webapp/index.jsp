@@ -25,7 +25,6 @@ Siempre cada programa debe de tener esto --%>
     <input type="text" id="num2" name="num2" >
 
     <input type="submit" value="Comparar">
-
 </form>
 </body>
 </html>

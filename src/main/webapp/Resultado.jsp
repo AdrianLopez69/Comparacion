@@ -24,7 +24,6 @@
         out.print("El numero "+num2+ " es mayor que "+num1+"\n");
 }else{
         out.print("Ambos numeros son iguales");
-
 }
 %>
 <br>
